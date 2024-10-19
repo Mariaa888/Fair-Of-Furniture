@@ -260,7 +260,8 @@ display: inline-flex;
     grid-template-columns: auto auto;
     grid-column-gap: 1em;
     padding: 2em 0;
-    margin-left: 50px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .card {
@@ -272,10 +273,11 @@ display: inline-flex;
     box-shadow: 1em 2em 2.5em rgba(1, 2, 68, 0.08);
 }
 
+
 img {
     width: 100%;
     object-fit: fill;
-    height: 50%;
+    height: 30vh;
 }
 
 .container {
