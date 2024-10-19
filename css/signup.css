@@ -160,7 +160,7 @@ footer {
         color: white;
         height: 60px;
         width: 100%;
-    bottom:0;
+        bottom:0;
         display: flex;
         margin-top: 5em;
         justify-content: center;
@@ -193,7 +193,7 @@ footer {
 .bi-facebook {
     margin-bottom: 30px;
     color: #000000;
-    margin-left:5px
+    margin-left:1em
 }
 
 .topfoter {
