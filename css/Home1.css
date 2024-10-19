@@ -269,6 +269,8 @@ margin-top: 1em;
 .photo{
     width: 18em;
     border-radius: 10px;
+    
+    margin-left: -1.5em;
 }
 footer {
     margin-top: 20px;
