@@ -151,7 +151,7 @@ fieldset{
     border: #37729E 1px solid;
     border-radius: 10px;
     margin-top: 3.7em;
-    margin-bottom:3em
+    margin-bottom:5em
 }
 .field{
     margin-top: 2em;
@@ -194,6 +194,7 @@ footer {
 .bi-facebook {
     margin-bottom: 30px;
     color: #000000;
+    margin-left:3px
 }
 
 .topfoter {
