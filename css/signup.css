@@ -161,7 +161,7 @@ footer {
         height: 60px;
         width: 100%;
         display: flex;
-        margin-top: 7em;
+        margin-top: 9em;
         justify-content: center;
         align-items: center;
 }
@@ -190,9 +190,7 @@ footer {
 .bi-instagram,
 .bi-facebook {
     margin-bottom: 30px;
-    color: #000000;
-    margin-left:0.5em
-}
+    color: #000000;}
 
 .topfoter {
     color: white;
