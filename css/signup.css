@@ -150,8 +150,7 @@ fieldset{
     height: 440px;
     border: #37729E 1px solid;
     border-radius: 10px;
-    margin-top: 3.7em;
-    margin-bottom:7em
+    margin-top: 3.7em
 }
 .field{
     margin-top: 2em;
@@ -163,7 +162,7 @@ footer {
         width: 100%;
     bottom:0;
         display: flex;
-        margin-top: auto;
+        margin-top: 5em;
         justify-content: center;
         align-items: center;
         position:static;
@@ -194,7 +193,7 @@ footer {
 .bi-facebook {
     margin-bottom: 30px;
     color: #000000;
-    margin-left:3px
+    margin-left:5px
 }
 
 .topfoter {
