@@ -116,12 +116,13 @@ nav {
     color: #ffffff;
     border-radius: 5px;
     font-size: 15px;
+    margin-left: -1.5em;
 }
 .a {
     text-decoration: none;
 }
 .adiv {
-    padding: 0.6em 2em;
+    padding: 0.7em 2em;
     background-color: #37729E;
     color: #ffffff;
     border-radius: 5px;
@@ -130,7 +131,7 @@ nav {
 main {
     margin: auto auto;
     margin-top: 50px;
-    width: 60%;
+    width: 70%;
     display: flex;
     justify-content: center;
 }
@@ -164,8 +165,10 @@ footer {
         height: 60px;
         width: 100%;
         display: flex;
+        bottom: 0;
         justify-content: center;
         align-items: center;
+        position: relative;
         position: relative;}
 
 .center {
