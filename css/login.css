@@ -133,7 +133,7 @@ nav {
 main {
     flex: 1;
     margin: auto auto;
-    margin-top: 50px;
+    margin-top: 80px;
     width: 70%;
     display: flex;
     justify-content: center;
@@ -166,7 +166,7 @@ footer {
         height: 60px;
         width: 100%;
         display: flex;
-    bottom:0;
+        bottom:0;
         justify-content: center;
         align-items: center;
         position: static;
