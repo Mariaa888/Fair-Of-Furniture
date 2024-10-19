@@ -165,7 +165,7 @@ footer {
         margin-top: 5em;
         justify-content: center;
         align-items: center;
-        position:static;
+        position:relative;
 }
 
 
@@ -193,7 +193,7 @@ footer {
 .bi-facebook {
     margin-bottom: 30px;
     color: #000000;
-    margin-left:1em
+    margin-left:0.5em
 }
 
 .topfoter {
